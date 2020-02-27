@@ -32,7 +32,7 @@ ul li {
 }
 
 .pattern {
-    background-image:url(../1716.png); /*====================N5 ============================== */ 
+    background-image:url(../raw/master/1716.png); /*====================N5 ============================== */ 
     background-repeat: repeat;
     background-attachment:scroll;
     width:100%;
@@ -44,7 +44,7 @@ ul li {
 }
 
 .divider {
-    background-image:url(../1713.png); /*====================N4 ============================== */
+    background-image:url(../raw/master/1713.png); /*====================N4 ============================== */
     display:block;
     width:300px;
     height:35px;
@@ -54,7 +54,7 @@ ul li {
 
 /*====================
 .yes {
-	background-image:url(../images/1724.png); N2 
+	background-image:url(../raw/master/1724.png); N2 
     display:block;
     width:66px;
     height:65px;
@@ -62,7 +62,7 @@ ul li {
 }
 
 .no {
-	background-image:url(../images/1725.png); 
+	background-image:url(../raw/master/images/1725.png); 
     display:block;
     width:66px;
     height:65px;
@@ -136,7 +136,7 @@ ul li {
 }
 
 .big-background-default-image {
-    background-image:url(../ashgdfcjasytdfauswytDG.jpg); /*====================N1 ============================== */
+    background-image:url(../raw/master/ashgdfcjasytdfauswytDG.jpg); /*====================N1 ============================== */
     background-repeat:no-repeat;
     background-position:center center;
     background-size:cover;
